@@ -29,6 +29,7 @@ I’m **Shakibul Islam**, a passionate **Frontend Developer** focused on buildin
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
