@@ -1,55 +1,134 @@
-# 💫 About Me:
-I’m **Shakibul Islam**, a passionate **Frontend Developer** focused on building clean, responsive, and user-centric web applications. I enjoy exploring how things work under the hood and continuously improving my problem-solving skills through real-world projects and open-source learning.
+<h1 align="center">Hi 👋, I'm Shakibul Islam</h1>
 
-## 🛠 Projects & Experiments
-- **Job Application Tracker** — A streamlined tool built with Vanilla JS and React to manage job pipelines and interview statuses.
-- **GitHub Issues Tracker** — A real-time dashboard using Fetch API for dynamic data rendering and issue filtering.
-- **Custom JavaScript Utilities** — Re-engineered native JavaScript methods from scratch to strengthen core JavaScript fundamentals.
+<p align="center">
+  <strong>AI-Driven Full Stack MERN Developer</strong><br/>
+  Next.js • React • TypeScript • Node.js • MongoDB
+</p>
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakibulislam420)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakibul-islam-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishakibul98@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,100:00C6FF&text=Building%20Scalable%20Web%20Applications&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Header Banner" />
+</p>
 
-# 💻 Tech Stack:
-
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-## 🎨 Styling & Design
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-## ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 🛠 Tools & Environment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Shakibul-islam-Dev&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://profile-three-amber.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:ishakibul98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/shakibul-islam-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Shakibul-islam-Dev&label=Profile%20Views&color=0e75b6&style=flat)
+# 💫 About Me
 
-<!-- Proudly customized for Shakibul Islam -->
+I'm a **Full Stack MERN Developer** who enjoys building scalable, secure, and high-performance web applications.
+
+My focus isn't just writing code—it's designing maintainable systems with clean architecture, excellent user experience, and production-ready standards.
+
+### What I enjoy working on
+
+- ⚡ Full Stack Web Applications
+- 🚀 Next.js & React Performance Optimization
+- 🔐 Authentication & Authorization
+- 💳 Payment Gateway Integration
+- 📦 REST APIs & Backend Architecture
+- 🧩 Component Design Systems
+- 📈 Database Design & Optimization
+- 🤖 AI-assisted Development Workflow
+
+---
+
+# 🚀 Currently
+
+- ✅ Solving **Data Structures & Algorithms** using JavaScript and TypeScript.
+- ✅ Exploring advanced **Next.js 16**, React Server Components, Server Actions, and caching.
+- ✅ Learning scalable backend architecture and system design.
+- ✅ Building production-ready SaaS applications.
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Tech" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Tech" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,vercel,npm" alt="Tools" />
+</p>
+
+---
+
+# 🧠 Core Skills
+
+- ✔ Clean Architecture
+- ✔ REST API Development
+- ✔ Authentication & Authorization
+- ✔ Database Modeling
+- ✔ API Security
+- ✔ Responsive UI
+- ✔ State Management
+- ✔ Performance Optimization
+- ✔ Git Workflow
+- ✔ Problem Solving
+- ✔ Team Collaboration
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=shakibul-islam-Dev&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakibul-Islam-Dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+  <a href="mailto:ishakibul98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/shakibul-islam-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/shakibulislam420" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://profile-three-amber.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+> **"Code is not just about making things work. It's about building software that lasts."**
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shakibul-Islam-Dev&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
