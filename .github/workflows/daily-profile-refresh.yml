@@ -1,1 +1,114 @@
+name: 🔄 Daily GitHub Profile Refresh
 
+on:
+
+# Every day at 00:00 UTC
+
+# Bangladesh time: 06:00 AM
+
+schedule:
+- cron: "0 0 * * *"
+
+# Manual run option
+
+workflow_dispatch:
+
+# Allow GitHub Actions to modify README.md
+
+permissions:
+contents: write
+
+jobs:
+refresh-profile:
+name: 🚀 Refresh Profile Stats
+runs-on: ubuntu-latest
+
+```
+steps:
+
+  # ─────────────────────────────────────────────
+  # Checkout repository
+  # ─────────────────────────────────────────────
+  - name: 📥 Checkout repository
+    uses: actions/checkout@v4
+
+  # ─────────────────────────────────────────────
+  # Generate today's cache version
+  # ─────────────────────────────────────────────
+  - name: 🕐 Generate cache version
+    id: version
+    shell: bash
+    run: |
+      VERSION=$(date -u +"%Y%m%d")
+
+      echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      echo "Today's cache version: $VERSION"
+
+  # ─────────────────────────────────────────────
+  # Replace previous version
+  # ─────────────────────────────────────────────
+  - name: 🔄 Update README cache version
+    shell: bash
+    run: |
+      VERSION="${{ steps.version.outputs.version }}"
+
+      sed -i \
+        -E "s/<!-- PROFILE_STATS_VERSION -->/<!-- PROFILE_STATS_VERSION: $VERSION -->/" \
+        README.md
+
+      sed -i \
+        -E "s/v=[0-9]+/v=$VERSION/g" \
+        README.md
+
+      echo "README cache version updated."
+
+  # ─────────────────────────────────────────────
+  # Check README changes
+  # ─────────────────────────────────────────────
+  - name: 🔍 Check for changes
+    id: changes
+    shell: bash
+    run: |
+      if git diff --quiet README.md; then
+        echo "changed=false" >> "$GITHUB_OUTPUT"
+        echo "No changes detected."
+      else
+        echo "changed=true" >> "$GITHUB_OUTPUT"
+        echo "README has changed."
+      fi
+
+  # ─────────────────────────────────────────────
+  # Commit README
+  # ─────────────────────────────────────────────
+  - name: 💾 Commit changes
+    if: steps.changes.outputs.changed == 'true'
+    shell: bash
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add README.md
+
+      git commit -m "chore: daily profile stats refresh"
+
+  # ─────────────────────────────────────────────
+  # Push README
+  # ─────────────────────────────────────────────
+  - name: 🚀 Push changes
+    if: steps.changes.outputs.changed == 'true'
+    shell: bash
+    run: |
+      git push
+
+  # ─────────────────────────────────────────────
+  # Done
+  # ─────────────────────────────────────────────
+  - name: ✅ Complete
+    shell: bash
+    run: |
+      echo "=========================================="
+      echo " GitHub Profile Refresh Completed"
+      echo " Cache Version: ${{ steps.version.outputs.version }}"
+      echo "=========================================="
+```
