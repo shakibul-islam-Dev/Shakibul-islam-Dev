@@ -1,4 +1,4 @@
-<!-- PROFILE_CACHE_VERSION -->
+<!-- PROFILE_STATS_VERSION -->
 
 <h1 align="center">Hi 👋, I'm Shakibul Islam</h1>
 
@@ -119,21 +119,21 @@ My focus isn't just writing code — it's designing maintainable systems with cl
 <p align="center">
 
 <img
- src="https://github-readme-stats.shion.dev/api?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=PROFILE_CACHE_VERSION"
+ src="https://github-readme-stats.shion.dev/api?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=PROFILE_STATS_VERSION"
  alt="GitHub Stats"
 />
 
 <br/><br/>
 
 <img
- src="https://streak-stats.demolab.com/?user=shakibul-islam-Dev&theme=dark&hide_border=false&v=PROFILE_CACHE_VERSION"
+ src="https://streak-stats.demolab.com/?user=shakibul-islam-Dev&theme=dark&hide_border=false&v=PROFILE_STATS_VERSION"
  alt="GitHub Streak"
 />
 
 <br/><br/>
 
 <img
- src="https://github-readme-stats.shion.dev/api/top-langs/?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=PROFILE_CACHE_VERSION"
+ src="https://github-readme-stats.shion.dev/api/top-langs/?username=shakibul-islam-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=PROFILE_STATS_VERSION"
  alt="Top Languages"
 />
 
@@ -144,10 +144,12 @@ My focus isn't just writing code — it's designing maintainable systems with cl
 # 📊 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul-islam-Dev&theme=tokyo-night&hide_border=true&v=PROFILE_CACHE_VERSION"
-    alt="Contribution Graph"
-  />
+
+<img
+ src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul-islam-Dev&theme=tokyo-night&hide_border=true&v=PROFILE_STATS_VERSION"
+ alt="Contribution Graph"
+/>
+
 </p>
 
 ---
