@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shakibul Islam</h1>
 
 <p align="center">
-  <strong>AI-Driven Full Stack MERN Developer</strong><br/>
+  <strong>Full Stack MERN Developer</strong><br/>
   Next.js • React • TypeScript • Node.js • MongoDB
 </p>
 
